@@ -1,0 +1,40 @@
+#title {
+    font-size: 48px;
+}
+
+.font-all {
+    font-family: "Times New Roman", sans-serif;
+    
+}
+
+.all-titles {
+    color : rgb(177, 75, 75);
+}
+
+
+.list {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 24px;
+    color : rgb(0, 0, 0);
+}
+
+
+
+
+/*Edits for the recipes*/
+
+
+.recipe-imgs {
+    height : auto;
+    width: 400px;
+}
+
+.intros {
+    font-size: 22px;
+}
+
+ul,
+ol {
+    font-size: 18px;
+}
+
